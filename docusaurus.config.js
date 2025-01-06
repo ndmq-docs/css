@@ -12,7 +12,7 @@ const config = {
   url: "https://github.com", // Your website URL
   baseUrl: "/css/",
   projectName: "css",
-  organizationName: "nmc-docs",
+  organizationName: "ndmq-docs",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   i18n: {
@@ -50,7 +50,7 @@ const config = {
         },
         items: [
           {
-            href: "https://github.com/nmc-docs/css",
+            href: "https://github.com/ndmq-docs/css",
             label: "GitHub",
             position: "right",
           },
